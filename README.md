@@ -21,6 +21,9 @@
   <a href="https://www.researchgate.net/profile/Saqr-Thabet" target="_blank">
     <img src="https://www.svgrepo.com/show/349490/researchgate.svg"
          alt="ResearchGate" width="40" height="30"></a>
+  <a href="https://scholar.google.com/citations?user=IX60WBEAAAAJ&hl" target="_blank">
+    <img src="https://www.svgrepo.com/show/349396/google-scholar.svg"
+         alt="GoogleScholar" width="40" height="30"></a>
 </div>
 </p>
 

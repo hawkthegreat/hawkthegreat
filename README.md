@@ -14,8 +14,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saqr-thabet/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="saqrthabet" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Saqr-Thabet"><img src="https://www.svgrepo.com/show/349490/researchgate.svg" alt="ResearchGate" width="40" height="30"></a>
+<div style="display:flex; align-items:center; gap:10px;">
+  <a href="https://www.linkedin.com/in/saqr-thabet/" target="_blank">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg"
+         alt="LinkedIn" width="40" height="30">
+  </a>
+  <a href="https://www.researchgate.net/profile/Saqr-Thabet" target="_blank">
+    <img src="https://www.svgrepo.com/show/349490/researchgate.svg"
+         alt="ResearchGate" width="40" height="30">
+  </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
